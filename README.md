@@ -1,2 +1,2 @@
 # Mission_To_Mars.
-This project was designed to ehance the look of a web applicaiton. 
+This project was designed to enhance the look of a web application. 
